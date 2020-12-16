@@ -21,6 +21,8 @@ Combat is the main gameplay loop, so we'll start with this.
 
 I want melee to be a strategic dance, where each individual is trying to outsmart and outmaneuver the other. I want combat to be approachable as a newcomer, but with a rewarding, high skill ceiling if the player chooses to reach for it.
 
+I have mixed feelings about the maneuevers section. Those are being carried over from the source, but aren't necessarily going to be used.
+
 ### Melee Fighting Styles
 
 Each melee fighting style has strengths and weaknesses. The player will begin the game knowing Form I, and can learn new styles from a trainer of that style. Once a style is known, it may be switched to in combat at will. Each style will improve with usage independently.
@@ -60,7 +62,7 @@ A wide sweeping attack in which the combatant strikes multiple enemies.
 Form II is the second of the seven forms of sword combat. Relying on precision and efficiency over Shii-Cho's wild, sweeping motions, Form II allowed an initiate to defend themselves against an opponent with minimal effort, while placing a heavy focus on avoiding disarmament. Makashi is described as elegant and focused, and is based on balance and footwork to outmaneuver opponents. Fluidity, precision, and economy of motion are relied on, rather than strength, with Form II bladework heavily utilizing jabs and light cuts rather than hack and slash movements. Practitioners or Form II rely on feints to confuse and trap opponents, and place a great deal of emphasis on footwork in both attack and defense. The footwork of Form II practitioners commonly follows a single line, front and back, shifting the feet to keep in perfect balance as the practitioner advances and retreats. Makashi is a style based on balance, on back-and-forth charges, thrusts, and sudden retreats.
 
 **When should it be used?**
-The form is at its fore when engaged in combat against a single enemy duelist. Makashi practitioners are also uncommonly adept at defending themselves from magical attacks, as the blade is wielded in one hand. This allows for offhand equipment or magic to be used.
+The form is at its fore when engaged in combat against a single enemy duelist. Makashi practitioners are also uncommonly adept at defending themselves from magical attacks, as the blade is often wielded in one hand. This allows for offhand equipment or magic to be used.
 
 **When should it not be used?**
 As Makashi is designed strictly for blade-to-blade combat, it lacks an effective means of combating enemies with projectile weapons. The greatest flaw of the Makashi system of combat is its inability to generate kinetic energy in its application; the focus on precision and blade control hampers an adherent's ability to generate momentum in both offensive and defensive maneuvers. This means that a duelist who possesses a sufficient level of physical strength could potentially overwhelm a Makashi practitioner, shunting aside strikes from the form's precision offense and simply bashing through it's evasive, footwork-oriented defense. This lack of physical force leaves Makashi practitioners vulnerable to duelists utilizing more contemporary forms, which emphasize power and brute strength. This weakness is especially pronounced against practitioners of the Djem So variant of Form V, as the style is based almost entirely around fast, strength-oriented swordplay. This weakness can, to varying degrees, be compensated for with rigorous strength training or augmentation of some kind.
@@ -70,6 +72,7 @@ As Makashi is designed strictly for blade-to-blade combat, it lacks an effective
 - Effective against singular opponents
 - Allows for flexibility against magic-users
 - Effective style for dexterous characters
+- Combat maneuver stamina cost is reduced
 
 **Weaknesses**
 - Countered by overwhelming strength
@@ -84,6 +87,31 @@ A defensive technique where the duelist slightly alters the angle of an opponent
 3. **Form III: Soresu**
 
 https://starwars.fandom.com/wiki/Form_III/Legends
+
+**What is it?**
+Form III is the third of the seven forms of sword combat. Like Makashi, Soresu relies on economy of motion and energy efficiency, keeping up constant blade movement to build up momentum and minimize energy expenditure. Form III focuses on strong defensive technique to essentially outlast an opponent, waiting until he/she begins making mistakes due to frustration or fatigue, before taking advantage of these lapses and countering. The Soresu form was devised to provide a duelist a defense against projectile weapons, weapons that the Makashi form isn't equipped to combat. Form III involves preparation for prolonged battles where the user observes and learns as much as possible about their adversary's technique while engaged in combat.
+
+**When should it be used?**
+The pragmatic Form III is the most defensive of the seven forms, and utilizes tight moves, consisting of subtle dodges and efficient parries, intended to provide maximum defensive coverage, and minimize exposure to ranged fire. This technique minimizes the body's exposure, making a well-trained practitioner practically invincible, which allowes Soresu to be effective against both single enemies and multiple opponents, as well as blasters and swords. Also, being more optimized for lengthy battles, a Soresu user has the ability to gain control of a combat situation, creating multiple options for the user employing the form. A Form III user can choose to kill, disarm, or even reason with their opponent.
+
+**When should it not be used?**
+Form III facilitates survival rather than victory, as Soresu possesses no dedicated offensive sequences of its own. Form III initiates are more than capable of defending themselves from attack, but they need considerable experience to effectively counterattack and entrap opponents. Masters maintain an incredibly strong focus on the center of the combat circle, since the defensive tactics of the form include guards and parries that engage very close to the body. Combatants with small lapses in their otherwise strong defense leave little room to avoid injury. As a result of this defensive mindset, Soresu practitioners often have great difficulty seizing the offensive initiative in combat. Also, the goal of many Soresu practitioners is to prolong the fight, the idea being to cause the enemy to become fatigued or frustrated as they attempt to keep up their offense. However, this tactic runs the risk of fatiguing the user if said user faces an adversary who can maintain an aggressive but cautious offense.
+
+**Strengths**
+- Very strong defense
+- Effective against projectiles and swords
+- Defensive maneuvers consume greatly reduced stamina
+- Good against both singular and multiple opponents
+- More prolonged fights can lead to fewer lethal encounters
+
+**Weaknesses**
+- Few offensive capabilities
+
+**Maneuevers**
+- *Circle of Shelter*: 
+A technique where the duelist creates a protected area around themselves and their allies, making it difficult for enemies to penetrate.
+- *Deflecting Slash*: 
+A technique where the duelist redirects the momentum generated by deflecting an enemy projectile into a slashing attack at an adjacent target.
 
 4. **Form IV: Ataru**
 
