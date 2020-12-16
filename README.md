@@ -25,7 +25,10 @@ I have mixed feelings about the maneuevers section. Those are being carried over
 
 ### Melee Fighting Styles
 
-Each melee fighting style has strengths and weaknesses. The player will begin the game knowing Form I, and can learn new styles from a trainer of that style. Once a style is known, it may be switched to in combat at will. Each style will improve with usage independently.
+Each melee fighting style has strengths and weaknesses. The player will begin the game without knowing any fighting styles, and can learn new styles from a trainer of that style. Once a style is known, it may be switched to in combat at will, provided the user is trained in that particular style with the equipped weapon. Each style will improve with usage independently.
+
+For example, if I were using a katana at the beginning of the game, I would not know any fighting styles, but still be able to use the katana to some limited effectiveness. Once I find a trainer that will teach me a particular style, I will have unlocked that fighting style to be used with all weapons; however, my proficiency with that style will then be tied to the weapon I am using. Twenty years down the road, I may have levelled up in Form I using the katana a great deal.. but if it's my first time using an axe with a shield, I will be starting at level 1 in Form 1 with the axe and shield. I may be high levelled in general and know a fighting style, but with the axe & shield, my technique could really use some work.
+
 I'm taking a lot of inspiration from Star Wars lightsaber styles. https://starwars.fandom.com/wiki/Lightsaber_combat/Legends
 
 1. **Form I: Shii-Cho**
