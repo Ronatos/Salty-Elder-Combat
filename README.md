@@ -1,6 +1,7 @@
 # Salty Elder Combat
 
-The name is a stand-in. We don't know what to call this yet.
+~~The name is a stand-in. We don't know what to call this yet.~~
+This game is most definitely about angry old people fighting.
 
 ## Combat
 
