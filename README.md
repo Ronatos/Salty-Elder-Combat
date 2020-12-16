@@ -28,28 +28,58 @@ I'm taking a lot of inspiration from Star Wars lightsaber styles. https://starwa
 
 1. **Form I: Shii-Cho**
 
-The first and most basic of the seven forms of sword combat, Shii-Cho is often used as a training form, with almost everyone receiving some instruction in it. Basic initiates in the style demonstrate rather clumsy performance, though in the hands of a master, Shii-Cho is fluid, highly randomized, and unpredictable.
+**What is it?**
+The first and most basic of the seven forms of sword combat, Shii-Cho is often used as a training form, with almost everyone receiving some instruction in it. Form I encourages deliberate tactics, calling for continuous, step-by-step advancement while cutting off the opponent's angles. Basic initiates in the style demonstrate rather clumsy performance, though in the hands of a master, Shii-Cho is fluid, highly randomized, and unpredictable.
 
-Shii-Cho is considered an effective fall-back option when no other form or combat style will do. Form I combat is wild and raw, relying on deliberate tactics and being primarily aimed towards disarming rather than injuring foes. Form I encourages deliberate tactics, calling for continuous, step-by-step advancement while cutting off the opponent's angles.
+**When should it be used?**
+Shii-Cho is considered an effective fall-back option when no other form or combat style will do. Form I combat is wild and raw, relying on deliberate tactics and being primarily aimed towards disarming rather than injuring foes. Shii-Cho is specialized towards engaging multiple opponents, the wide, sweeping motions being ideally suited towards attacking numerous adversaries.
 
-Shii-Cho is specialized towards engaging multiple opponents, the wide, sweeping motions being ideally suited towards attacking numerous adversaries. However, Form I is not as useful against single opponents, as such enemies have greater mobility and can find a weakness in Shii-Cho's comparatively clumsy bladework.
+**When should it not be used?**
+Form I is not as useful against single opponents - especially those using Form II, as such enemies have greater mobility and can find a weakness in Shii-Cho's comparatively clumsy bladework.
 
 **Strengths**
 - Effective against groups of opponents.
 - Effective at disarming opponents.
+- Easy to learn
+- Good all around
+- Usable by any character build effectively
 
 **Weaknesses**
 - Ineffective against singular opponents.
+- Easily countered by Form II
 
 **Maneuvers**
-- *Disarming Slash*:
+- *Disarming Slash*: 
 A strike directed at the opponent's weapon in an attempt to rip it out of their grasp or destroy it.
-- *Sarlacc Sweep*:
+- *Sarlacc Sweep*: 
 A wide sweeping attack in which the combatant strikes multiple enemies.
 
 2. **Form II: Makashi**
 
-https://starwars.fandom.com/wiki/Form_II/Legends
+**What is it?**
+Form II is the second of the seven forms of sword combat. Relying on precision and efficiency over Shii-Cho's wild, sweeping motions, Form II allowed an initiate to defend themselves against an opponent with minimal effort, while placing a heavy focus on avoiding disarmament. Makashi is described as elegant and focused, and is based on balance and footwork to outmaneuver opponents. Fluidity, precision, and economy of motion are relied on, rather than strength, with Form II bladework heavily utilizing jabs and light cuts rather than hack and slash movements. Practitioners or Form II rely on feints to confuse and trap opponents, and place a great deal of emphasis on footwork in both attack and defense. The footwork of Form II practitioners commonly follows a single line, front and back, shifting the feet to keep in perfect balance as the practitioner advances and retreats. Makashi is a style based on balance, on back-and-forth charges, thrusts, and sudden retreats.
+
+**When should it be used?**
+The form is at its fore when engaged in combat against a single enemy duelist. Makashi practitioners are also uncommonly adept at defending themselves from magical attacks, as the blade is wielded in one hand. This allows for offhand equipment or magic to be used.
+
+**When should it not be used?**
+As Makashi is designed strictly for blade-to-blade combat, it lacks an effective means of combating enemies with projectile weapons. The greatest flaw of the Makashi system of combat is its inability to generate kinetic energy in its application; the focus on precision and blade control hampers an adherent's ability to generate momentum in both offensive and defensive maneuvers. This means that a duelist who possesses a sufficient level of physical strength could potentially overwhelm a Makashi practitioner, shunting aside strikes from the form's precision offense and simply bashing through it's evasive, footwork-oriented defense. This lack of physical force leaves Makashi practitioners vulnerable to duelists utilizing more contemporary forms, which emphasize power and brute strength. This weakness is especially pronounced against practitioners of the Djem So variant of Form V, as the style is based almost entirely around fast, strength-oriented swordplay. This weakness can, to varying degrees, be compensated for with rigorous strength training or augmentation of some kind.
+
+**Strengths**
+- Counters Form I
+- Effective against singular opponents
+- Allows for flexibility against magic-users
+- Effective style for dexterous characters
+
+**Weaknesses**
+- Countered by overwhelming strength
+- Weak to projectiles
+
+**Maneuvers**
+- *Contentious Opportunity*: 
+A tactic based upon recognizing and exploiting an opening in the opponent's defense before swiftly moving to strike the exposed enemy.
+- *Makashi Riposte*: 
+A defensive technique where the duelist slightly alters the angle of an opponent's attack before quickly retaliating with a counter strike.
 
 3. **Form III: Soresu**
 
