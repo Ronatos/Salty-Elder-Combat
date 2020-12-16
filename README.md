@@ -1,7 +1,8 @@
 # Salty Elder Combat
 
 ~~The name is a stand-in. We don't know what to call this yet.~~
-This game is most definitely about angry old people fighting.
+~~This game is most definitely about angry old people fighting.~~
+We'll see.
 
 ## Combat
 
@@ -22,6 +23,7 @@ I want melee to be a strategic dance, where each individual is trying to outsmar
 
 ### Melee Fighting Styles
 
+Each melee fighting style has strengths and weaknesses. The player will begin the game knowing Form I, and can learn new styles from a trainer of that style. Once a style is known, it may be switched to in combat at will. Each style will improve with usage independently.
 I'm taking a lot of inspiration from Star Wars lightsaber styles. https://starwars.fandom.com/wiki/Lightsaber_combat/Legends
 
 1. **Form I: Shii-Cho**
@@ -32,13 +34,18 @@ Shii-Cho is considered an effective fall-back option when no other form or comba
 
 Shii-Cho is specialized towards engaging multiple opponents, the wide, sweeping motions being ideally suited towards attacking numerous adversaries. However, Form I is not as useful against single opponents, as such enemies have greater mobility and can find a weakness in Shii-Cho's comparatively clumsy bladework.
 
-**Disarming Slash**
+**Strengths**
+- Effective against groups of opponents.
+- Effective at disarming opponents.
 
+**Weaknesses**
+- Ineffective against singular opponents.
+
+**Maneuvers**
+- *Disarming Slash*:
 A strike directed at the opponent's weapon in an attempt to rip it out of their grasp or destroy it.
-
-**Sarlacc Sweep**
-
-A wide sweeping attack in which the duelist strikes multiple enemies.
+- *Sarlacc Sweep*:
+A wide sweeping attack in which the combatant strikes multiple enemies.
 
 2. **Form II: Makashi**
 
